@@ -1,5 +1,4 @@
-<h1 style="text-align: center">Hi, I'm Zhangjian He, You can call me Zhangjian</h1>
-<h1 style="text-align: center">Hi，我是贺张俭，可以叫我张俭</h1>
+<h1 style="text-align: center">Hi, I'm He(贺) Zhangjian(张俭), You can call me Zhangjian(张俭)</h1>
 
 - 🖋️ **Blog**: [张俭的博客](https://hezhangjian.github.io/) (Chinese)
 
@@ -35,4 +34,4 @@
 
 ## Profile Visits
 
-![Visitor Count](https://profile-counter.glitch.me/{hezhangjian}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/hezhangjian/count.svg)
