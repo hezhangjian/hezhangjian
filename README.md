@@ -1,5 +1,7 @@
 <h1 style="text-align: center">Hi, I'm He(贺) Zhangjian(张俭), You can call me Zhangjian(张俭)</h1>
 
+> Zhangjian, /ʒɑŋ dʒi:ˈɑ:n/
+
 - 🖋️ **Blog**: [张俭的博客](https://hezhangjian.github.io/) (Chinese)
 
 - 💼 **Position**: Huawei Cloud IoT Senior Engineer | Huawei Cloud Open Source Team Member
