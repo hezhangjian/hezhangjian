@@ -33,12 +33,12 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 
 ## Selected Posts
 
-- [本体系统如何组织数据，为Agent提供上下文](https://hezhangjian.com/2026/09/10/本体系统如何组织数据，为Agent提供上下文/)
-- [代码迷雾：我们正在进入一个不再完全理解代码的时代](https://hezhangjian.com/2026/08/22/代码迷雾：我们正在进入一个不再完全理解代码的时代/)
-- [AI辅助研发，为什么越来越难证明提效？](https://hezhangjian.com/2026/07/01/AI辅助研发，为什么越来越难证明提效？/)
-- [我是如何管理自己的数字资产的](https://hezhangjian.com/2026/06/06/我是如何管理自己的数字资产的/)
-- [提升网络协议服务器的定位能力](https://hezhangjian.com/2023/05/30/提升网络协议服务器的定位能力/)
-- [华为云物联网四年配置中心实践](https://hezhangjian.com/2021/04/14/华为云物联网四年配置中心实践/)
+- [本体系统如何组织数据，为Agent提供上下文](https://hezhangjian.com/blog/ontology-data-organization-agent-context/)
+- [代码迷雾：我们正在进入一个不再完全理解代码的时代](https://hezhangjian.com/blog/code-fog/)
+- [AI辅助研发，为什么越来越难证明提效？](https://hezhangjian.com/blog/ai-efficiency-measurement/)
+- [我是如何管理自己的数字资产的](https://hezhangjian.com/blog/how-i-manage-digital-assets/)
+- [提升网络协议服务器的定位能力](https://hezhangjian.com/blog/improve-network-server-debuggability/)
+- [华为云物联网四年配置中心实践](https://hezhangjian.com/blog/config-center/)
 
 [View all posts →](https://hezhangjian.com/blog)
 
@@ -46,31 +46,23 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 
 ### 2026 · Community Over Code Asia
 
-- 规模化场景下的规约驱动开发（Spec-Driven Development） · [Session details](https://asia.communityovercode.org/zh/sessions/agenticcoding-1207762.html)
-- 用 Apache 技术栈打造类 Palantir 的数据与 AI 平台 · [Session details](https://asia.communityovercode.org/zh/sessions/dataai-1207761.html)
+- [规模化场景下的规约驱动开发（Spec-Driven Development）](https://hezhangjian.com/presentations/community-over-code/spec-driven-development/)
+- [用 Apache 技术栈打造类 Palantir 的数据与 AI 平台](https://hezhangjian.com/presentations/community-over-code/palantir-on-apache-stack/)
 
 ### 2025 · Community Over Code Asia
 
-- 使用 Apache Pulsar 构建高可靠订阅和推送服务：挑战与最佳实践 · [Session details](https://asia.communityovercode.org/2025/zh/sessions/messaging-890417.html)
-
-### 2024 · Huawei Developer Conference
-
-- 华为云IoT构建OpenHarmony端云协同开源套件，让设备更智能 · [Event recap](https://bbs.huaweicloud.com/blogs/429803)
+- [使用 Apache Pulsar 构建高可靠订阅和推送服务：挑战与最佳实践](https://hezhangjian.com/presentations/community-over-code/apache-pulsar-subscription-push/)
 
 ### 2024 · Huawei Cloud DTSE Talk
 
-- 华为云IoT开源专家实践分享：开源让物联网平台更开放、易用 · [Video](https://bbs.huaweicloud.com/live/DTT_live/202405141630.html)
+- [华为云IoT开源专家实践分享：开源让物联网平台更开放、易用](https://hezhangjian.com/presentations/huawei-cloud-dtse-talk/huawei-cloud-iot-open-source/)
 
 ### 2024 · 大湾区 Open Source Day
 
-- 携手开源社区：华为云IoT的参与实践与经验交流 · [Event recap](https://choss.cn/news/shownews.php?id=30)
+- [携手开源社区：华为云IoT的参与实践与经验交流](https://hezhangjian.com/presentations/open-source-day/huawei-cloud-iot/)
 
 ### 2021 · ApacheCon Asia
 
-- The Journey of Apache Pulsar in Huawei Cloud Internet of Things Platform · [Video](https://www.youtube.com/watch?v=2XOIj4-dibI)
-
-### 2020 · Pulsar Summit Asia
-
-- Apache Pulsar 在华为云物联网之旅：上线历程与最佳配置 · [Video](https://www.bilibili.com/video/BV1fz4y1k7a4)
+- [The Journey of Apache Pulsar in Huawei Cloud Internet of Things Platform](https://hezhangjian.com/presentations/apache-con/apache-pulsar-journey/)
 
 [View all presentations →](https://hezhangjian.com/presentations)
