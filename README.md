@@ -16,15 +16,31 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 
 ## Open Source Contributions
 
-- [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) and [ServiceComb](https://github.com/apache/servicecomb-java-chassis) PMC member
-- [@apache](https://github.com/apache) [Pulsar](https://github.com/apache/pulsar) committer
-- [@cncf](https://github.com/cncf) [@openGemini](https://github.com/openGemini) maintainer
-- [@apolloconfig](https://github.com/apolloconfig) committer
+- [@apache](https://github.com/apache) [Bookkeeper](https://github.com/apache/bookkeeper) and [ServiceComb](https://github.com/apache/servicecomb-java-chassis) PMC member & Committer
+- [@apache](https://github.com/apache) [Pulsar](https://github.com/apache/pulsar) Committer
+- [@cncf](https://github.com/cncf) [@openGemini](https://github.com/openGemini) Maintainer
+- [@apolloconfig](https://github.com/apolloconfig) PMC member & Committer
 
 ## Selected Projects
 
+### Applications
+
 - [ChuQin](https://github.com/hezhangjian/ChuQin) — A local-first desktop workspace for organizing personal files and working with AI agents.
-- [OpenFacade](https://github.com/openfacade) — Providing consistent APIs over different underlying libraries, so applications can switch implementations without changing their code. The [Java HTTP facade](https://github.com/openfacade/http-facade) is available now.
+
+### Platforms
+
+- [Ontology](https://github.com/hezhangjian/Ontology) — A data and AI platform.
+
+### Libraries
+
+- [http-facade](https://github.com/openfacade/http-facade) — A unified Java API for HTTP clients and servers, allowing applications to switch underlying implementations without changing their code.
+- [spring-cloud-go](https://github.com/libgox/spring-cloud-go) — A Go library for ZooKeeper-based service discovery and HTTP calls with client-side load balancing.
+- [flyway](https://github.com/libgox/flyway) — A Go library for versioned SQL database migrations across MySQL, PostgreSQL, and SQLite.
+- [buffer](https://github.com/libgox/buffer) — A Go byte buffer for binary protocol encoding and decoding, with endian-aware primitives and length-prefixed strings.
+
+### Developer Tools
+
+- [linelint](https://github.com/hezhangjian/linelint) — A line-based linter and formatter for enforcing newline-at-EOF and trailing whitespace rules.
 - [latest-release-action](https://github.com/hezhangjian/latest-release-action) — A GitHub Action for creating releases, uploading artifacts, and maintaining a latest tag.
 - [go-mod-check-action](https://github.com/hezhangjian/go-mod-check-action) — A GitHub Action for keeping `go.mod` and `go.sum` consistent and controlling indirect dependency updates.
 - [host-available-check-action](https://github.com/hezhangjian/host-available-check-action) — A GitHub Action for checking whether a host is available.
