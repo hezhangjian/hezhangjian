@@ -82,3 +82,14 @@ Currently, I work on intelligent data decision platforms at Huawei Cloud.
 - [The Journey of Apache Pulsar in Huawei Cloud Internet of Things Platform](https://hezhangjian.com/presentations/apache-con/apache-pulsar-journey/)
 
 [View all presentations →](https://hezhangjian.com/presentations)
+
+## GitHub Organizations
+
+I organize my libraries, tools, and experiments across several GitHub organizations:
+
+- [OpenFacade](https://github.com/openfacade) — Unified APIs for HTTP, databases, graph storage, and Git platforms.
+- [protocol-laboratory](https://github.com/protocol-laboratory) — Protocol implementations, client libraries, simulators, and developer tools for messaging, databases, telecom, and industrial IoT.
+- [libgox](https://github.com/libgox) — Reusable Go libraries for collections, configuration, logging, retries, database migrations, and service discovery.
+- [perf-tool](https://github.com/perf-tool) — Performance testing and analysis tools for distributed systems, including load generation, metrics, tracing, and profiling.
+- [embedded-middleware](https://github.com/embedded-middleware) — Embedded middleware and database tools that simplify service setup for testing and local development.
+- [morn-ai](https://github.com/morn-ai) — Experiments in AI agents, MCP integration, chat, and embeddings.
